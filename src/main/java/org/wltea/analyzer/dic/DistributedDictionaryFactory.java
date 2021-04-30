@@ -16,7 +16,6 @@ import org.wltea.analyzer.consts.ConfigConsts;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-
 /**
  * 工厂类根据配置生成Dictionary
  * 
